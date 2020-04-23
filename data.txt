@@ -1,0 +1,24 @@
+<center>Data Pemantauan Covid19 wilayah DKI Jakarta <br>
+              Per  23 April 2020  19:44:35 (Waktu dan Jam Sekarang) <br>
+                Budi Sutanto / 2016140428
+                <hr></hr>
+    <br>        
+    <br>
+    <br>
+   <table  border='1' align='center'  width='500px' height='100px'>
+    <tr>
+      <td>Positif</td>
+      <td>Dirawat</td>
+      <td>Sembuh</td>
+      <td>Meninggal</td>
+    </tr>
+    <tr>
+      <td>2902</td>
+      <td>1769</td>
+      <td>206</td>
+      <td>257</td>
+    </tr>
+  </table>
+   <br>
+   </center>
+	
